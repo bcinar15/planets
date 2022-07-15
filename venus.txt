@@ -1,1 +1,2 @@
-Hello, i am learning how to use command line in git bash
+Venus is beautiful and full of love
+Venus is too hot to be suitable as a base
