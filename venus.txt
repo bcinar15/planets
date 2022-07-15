@@ -1,1 +1,1 @@
-Hello, i am learning how use command line in git bash
+Hello, i am learning how to use command line in git bash
