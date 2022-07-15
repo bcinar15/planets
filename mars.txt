@@ -1,4 +1,7 @@
 Cold and dry, but evething is my favorite color. 
 The two moons may bea problem for Wolfman
 But the Mummy will appreciate the lack of humidity
-This course workshop is challenging
+This workshop is challenging!!!
+
+I am learning git, bash and Python
+
